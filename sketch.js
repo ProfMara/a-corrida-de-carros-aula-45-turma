@@ -16,7 +16,7 @@ function preload() {
   cenario = loadImage("./assets/planodefundo.png");
   carimg1 = loadImage("car1.png");
   carimg2 = loadImage("car2.png");
-  pista = loadImage("pista.png");
+  pista = loadImage("track.png");
   //carregar as imagens da moeda e do combustível
   coinImg = loadImage("goldCoin.png");
   fuelImg = loadImage("fuel.png");
