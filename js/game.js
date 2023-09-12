@@ -248,7 +248,7 @@ class Game{
     mostrarRank() {
         swal({
           title: "Incrível!! " +player.rank+ "º Lugar!" ,
-          text: "Mamãe que legal gostou????",
+          text: "Você ultrapassou a linha de chegada",
           imageUrl:"https://i.pinimg.com/originals/92/b9/82/92b982f51088316de66a2c537106cb2d.gif",
           imageSize: "100x100",
           confirmButtonText: "Ok"
